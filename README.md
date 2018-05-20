@@ -1,2 +1,0 @@
-# JavaScript-Exercises
-Learning JavaScript
